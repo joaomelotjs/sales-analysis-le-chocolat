@@ -1,24 +1,43 @@
-# Análise de Vendas - Case Le Chocolat
+Análise Exploratória de Vendas | Case Le Chocolat
+Visão Geral
 
-Análise exploratória de vendas da empresa fictícia Le Chocolat, desenvolvida como simulação de um desafio de dados real. O foco é entender padrões de venda e propor estratégias com base nos dados fornecidos.
+Este projeto consiste em uma análise exploratória de dados de vendas da empresa fictícia Le Chocolat, desenvolvida como simulação de um desafio de dados real.
 
-## Objetivos
-- Analisar o desempenho de vendas por produto, loja e canal;
-- Identificar tendências, sazonalidades e oportunidades de negócio;
-- Propor insights com base em dados reais simulados.
+O objetivo principal é compreender o comportamento das vendas, identificar padrões, sazonalidades e oportunidades, e propor insights baseados em análise estatística descritiva.
 
-## 🛠Tecnologias e Bibliotecas
-- Python
-- Pandas
-- Matplotlib, Seaborn
+Objetivos
 
-## Resultados
-- Visualização de padrões sazonais;
-- Destaque de produtos e canais com melhor desempenho;
-- Sugestões de possíveis ações de marketing e estoque.
+Analisar o desempenho de vendas por produto, loja e canal.
 
-## Como executar
-Notebook desenvolvido no Google Colab.  
-Basta abrir o arquivo e executar as células para acompanhar a análise.
+Identificar padrões de comportamento, tendências e sazonalidade.
 
----
+Apoiar decisões relacionadas a estoque, marketing e estratégia comercial.
+
+Análise e Insights
+
+A partir da exploração dos dados, foi possível:
+
+Identificar padrões sazonais de vendas ao longo do tempo.
+
+Destacar produtos e canais com melhor desempenho.
+
+Observar variações relevantes entre lojas e períodos.
+
+Sugerir possíveis ações estratégicas com base nos dados analisados.
+
+A análise priorizou a interpretação dos números, evitando apenas visualizações superficiais.
+
+Tecnologias Utilizadas
+
+Python
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Como Executar
+
+O notebook foi desenvolvido no Google Colab.
+Basta abrir o arquivo e executar as células para acompanhar toda a análise exploratória.
